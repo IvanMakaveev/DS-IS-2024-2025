@@ -2,6 +2,6 @@
 
 ## Решаване на рекурентни уравнения - допълнителни материали
 ### Master Theorem
-![](/MT.png)
+![](MT.png)
 ### Akra-Bazzi Theorem
-![](/AB.png)
+![](AB.png)
