@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "format": "cpp",
+        "forward_list": "cpp",
+        "functional": "cpp",
+        "initializer_list": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp"
+    }
+}
