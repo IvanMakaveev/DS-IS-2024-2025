@@ -13,3 +13,9 @@
 - [*Task 4* - 2895. Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/?envType=problem-list-v2&envId=awdekmvh)
 - [*Task 5* - 3016. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/?envType=problem-list-v2&envId=awdekmvh)
 - [*Task 6* - 2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/?envType=problem-list-v2&envId=awdekmvh)
+
+## 📚 Additional Tasks
+Here are some additional practice tasks from other groups' practicums for extra exercise:
+- [Group 1](https://leetcode.com/problem-list/awdeugtv/)
+- [Group 2](https://leetcode.com/problem-list/awdeqdds/)
+- [Group 4](https://leetcode.com/problem-list/awdef2cg/)
