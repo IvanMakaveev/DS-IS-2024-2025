@@ -1,0 +1,13 @@
+# 📝 Practicum 05 - 06.11.2024
+
+## 🔗 Links
+### [Tasks for Practicum 05](https://leetcode.com/problem-list/awte4xi3/)
+
+## 📚 Tasks
+### 🏫 In-Practicum
+- [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=problem-list-v2&envId=awte4xi3)
+- [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=problem-list-v2&envId=awte4xi3)
+### 🏡 Homework
+- [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=problem-list-v2&envId=awte4xi3)
+- [155. Min Stack](https://leetcode.com/problems/min-stack/description/?envType=problem-list-v2&envId=awte4xi3)
+- [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/?envType=problem-list-v2&envId=awte4xi3)
