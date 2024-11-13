@@ -1,0 +1,13 @@
+# 📝 Practicum 06 - 13.11.2024
+
+## 🔗 Links
+### [Tasks for Practicum 06](https://leetcode.com/problem-list/aw7zfx4m/)
+
+## 📚 Tasks
+### 🏫 In-Practicum
+- [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=problem-list-v2&envId=aw7zfx4m)
+- [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/?envType=problem-list-v2&envId=aw7zfx4m)
+### 🏡 Homework
+- [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/?envType=problem-list-v2&envId=aw7zfx4m)
+- [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=problem-list-v2&envId=aw7zfx4m)
+- [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=problem-list-v2&envId=aw7zfx4m)
