@@ -11,3 +11,9 @@
 - [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/?envType=problem-list-v2&envId=aw7zfx4m)
 - [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=problem-list-v2&envId=aw7zfx4m)
 - [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=problem-list-v2&envId=aw7zfx4m)
+
+## 📚 Additional Tasks
+Here are some additional practice tasks from other groups' practicums for extra exercise:
+- [Group 1](https://leetcode.com/problem-list/aw76m7ld/)
+- [Group 2](https://leetcode.com/problem-list/aw7610t5/)
+- [Group 4](https://leetcode.com/problem-list/aw7zfjz1/)
