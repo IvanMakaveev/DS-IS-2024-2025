@@ -1,13 +1,12 @@
-# 📝 Practicum 09 - 04.12.2024
+# 📝 Practicum 11 - 18.12.2024
 
 ## 🔗 Links
-### [Tasks for Practicum 09](https://leetcode.com/problem-list/asohcqu1/)
+### [Tasks for Practicum 11](https://leetcode.com/problem-list/ayzskyot/)
 
 ## 📚 Tasks
 ### In-Practicum
-- [*Task 1* - 859. Buddy Strings](https://leetcode.com/problems/buddy-strings/?envType=problem-list-v2&envId=asohcqu1)
-- [*Task 2* - 594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=problem-list-v2&envId=asohcqu1)
-- [*Task 3* - 500. Keyboard Row](https://leetcode.com/problems/keyboard-row/?envType=problem-list-v2&envId=asohcqu1)
+- [*Task 1* - 997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/?envType=problem-list-v2&envId=ayzskyot)
+- [*Task 2* - 547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/?envType=problem-list-v2&envId=ayzskyot)
 ### Homework
-- [*Task 4* - 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=asohcqu1)
-- [*Task 5* - 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=asohcqu1)
+- [*Task 3* - 785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/?envType=problem-list-v2&envId=ayzskyot)
+- [*Task 4* - 934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/?envType=problem-list-v2&envId=ayzskyot)
