@@ -237,3 +237,9 @@ int main() {
 }
 ```
 </details>
+
+## Документация
+- [std::system_clock](https://en.cppreference.com/w/cpp/chrono/system_clock)
+- [std::tm](https://en.cppreference.com/w/cpp/chrono/c/tm)
+- [std::localtime](https://en.cppreference.com/w/cpp/chrono/c/localtime)
+- [std::put_time](https://en.cppreference.com/w/cpp/io/manip/put_time)
