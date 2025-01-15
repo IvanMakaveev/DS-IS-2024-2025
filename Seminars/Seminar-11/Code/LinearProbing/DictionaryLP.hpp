@@ -48,7 +48,7 @@ class DictionaryLP
                     if (!dataDest[index].isTaken)
                     {
                         // We use std::move here!!!
-                        dataDest[index] = Node(std::move(it->key), std::move(it->value), true, false);
+                        dataDest[index] = Node(std::move(it->key), std::move(it->value), false, true);
                         break;
                     }
  
@@ -86,7 +86,7 @@ public:
         {
             if (!data[index].isTaken || data[index].isDeleted)
             {
-                data[index] = Node(key, value, true, false);
+                data[index] = Node(key, value, false, true);
                 size++;
                 return;
             }
