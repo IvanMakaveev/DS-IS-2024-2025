@@ -4,10 +4,10 @@
 struct Node
 {
     int val = 0;
-    Node* next = nullptr;
+    Node *next = nullptr;
 };
 
-bool areEqual(Node* first, Node* second)
+bool areEqual(Node *first, Node *second)
 {
     while (first && second)
     {
@@ -21,10 +21,10 @@ bool areEqual(Node* first, Node* second)
     return !first && !second;
 }
 
-Node* makeToList(const std::vector<int>& arr)
+Node *makeToList(const std::vector<int> &arr)
 {
     Node dummy;
-    Node* iter = &dummy;
+    Node *iter = &dummy;
     for (int i = 0; i < arr.size(); i++)
     {
         iter->next = new Node{arr[i]};
@@ -34,45 +34,48 @@ Node* makeToList(const std::vector<int>& arr)
     return dummy.next;
 }
 
-Node* addElementAt(Node* node, int val, int ind)
+Node *addElementAt(Node *node, int val, int ind)
 {
-    if (ind < 0) return node;
+    if (ind < 0)
+        return node;
 
-    Node* prev = node;
-    Node* iter = node;
+    Node *prev = node;
+    Node *iter = node;
 
     while (iter && ind)
     {
-        prev = iter; 
+        prev = iter;
         iter = iter->next;
         ind--;
     }
 
-    if (ind > 0) return node;
+    if (ind > 0)
+        return node;
 
     if (prev == iter)
         return new Node{val, node};
 
     prev->next = new Node{val, iter};
     return node;
-
 }
 
-Node* removeElementAt(Node* node, int ind)
+Node *removeElementAt(Node *node, int ind)
 {
-    if (ind < 0) return node;
+    if (ind < 0)
+        return node;
 
-    Node* prev = node;
-    Node* iter = node;
+    Node *prev = node;
+    Node *iter = node;
 
     while (iter && ind)
     {
-        prev = iter; 
+        prev = iter;
         iter = iter->next;
         ind--;
     }
 
-    if (ind > 0) return node;
+    if (ind > 0)
+        return node;
 
     if (prev == iter)
     {
@@ -86,11 +89,6 @@ Node* removeElementAt(Node* node, int ind)
     return node;
 }
 
-
-
-
-
 int main()
 {
-    
 }
