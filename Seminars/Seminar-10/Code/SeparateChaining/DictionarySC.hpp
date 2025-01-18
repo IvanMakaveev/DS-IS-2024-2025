@@ -6,7 +6,8 @@
 #include <iostream>
 #include <stdexcept>
 #include <forward_list>
- 
+#include <algorithm>
+
 size_t getHash(const std::string& str)
 {
     return str.size();
